@@ -44,3 +44,6 @@ always have a backup of my information.
 
 ## Use cases
 ![use-case](use-case.png)
+
+## Class diagram
+![class-diagram](class-diagram.png)
