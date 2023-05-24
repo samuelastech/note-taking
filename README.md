@@ -40,4 +40,7 @@ be protected from unwanted parties.
 ### Syncing with the Cloud
 
 - As a user, I want my notes to automatically upload to cloud servers, so I 
-always have a backup of my information. 
+always have a backup of my information.
+
+## Use cases
+![use-case](use-case.png)
